@@ -1,0 +1,6 @@
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Meals\Meals\bin\Debug\Meals.dll
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Meals\Meals\bin\Debug\Meals.pdb
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Meals\Meals\obj\Debug\Meals.csproj.AssemblyReference.cache
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Meals\Meals\obj\Debug\Meals.csproj.CoreCompileInputs.cache
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Meals\Meals\obj\Debug\Meals.dll
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Meals\Meals\obj\Debug\Meals.pdb

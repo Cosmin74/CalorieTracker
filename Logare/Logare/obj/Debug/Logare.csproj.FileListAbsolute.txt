@@ -1,0 +1,64 @@
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Logare\Logare\bin\Debug\Logare.exe.config
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Logare\Logare\bin\Debug\Logare.exe
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Logare\Logare\bin\Debug\Logare.pdb
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Logare\Logare\obj\Debug\Logare.csproj.AssemblyReference.cache
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Logare\Logare\obj\Debug\Logare.Form1.resources
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Logare\Logare\obj\Debug\Logare.Properties.Resources.resources
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Logare\Logare\obj\Debug\Logare.csproj.GenerateResource.cache
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Logare\Logare\obj\Debug\Logare.csproj.CoreCompileInputs.cache
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Logare\Logare\obj\Debug\Logare.exe
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Logare\Logare\obj\Debug\Logare.pdb
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Logare\Logare\obj\Debug\Logare.Inregistrare.resources
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Logare\Logare\bin\Debug\Database_registry.mdf
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Logare\Logare\bin\Debug\Database_registry_log.ldf
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Logare\Logare\bin\Debug\Dapper.dll
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Logare\Logare\bin\Debug\Dapper.xml
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Logare\Logare\obj\Debug\Logare.csproj.CopyComplete
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Database_registry.mdf
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Database_registry_log.ldf
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Logare.exe.config
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Logare.exe
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Logare.pdb
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Dapper.dll
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Dapper.xml
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.csproj.AssemblyReference.cache
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.Form1.resources
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.Inregistrare.resources
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.Properties.Resources.resources
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.csproj.GenerateResource.cache
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.csproj.CoreCompileInputs.cache
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.csproj.CopyComplete
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.exe
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.pdb
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\CalculatorCaloric.exe
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\CalculatorDLL.dll
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\CalculatorCaloric.pdb
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\CalculatorCaloric.exe.config
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\BazaDeDateFacade.dll
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\BazaDeDateFacade.pdb
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Meals.dll
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Meals.pdb
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Database_registry.mdf
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Database_registry_log.ldf
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Logare.exe.config
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Logare.exe
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Logare.pdb
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\BazaDeDateFacade.dll
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\CalculatorCaloric.exe
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\CalculatorDLL.dll
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Dapper.dll
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Meals.dll
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\CalculatorCaloric.pdb
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\CalculatorCaloric.exe.config
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\BazaDeDateFacade.pdb
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Dapper.xml
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\bin\Debug\Meals.pdb
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.csproj.AssemblyReference.cache
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.Form1.resources
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.Inregistrare.resources
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.Properties.Resources.resources
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.csproj.GenerateResource.cache
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.csproj.CoreCompileInputs.cache
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.csproj.CopyComplete
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.exe
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy - Copy\ProiectIP_Gangster_Paradise_Squad-main\Logare\Logare\obj\Debug\Logare.pdb
