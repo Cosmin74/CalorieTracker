@@ -1,0 +1,12 @@
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\BazadeDate\BazadeDate\bin\Debug\BazadeDate.dll
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\BazadeDate\BazadeDate\bin\Debug\BazadeDate.pdb
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\BazadeDate\BazadeDate\obj\Debug\BazadeDate.csproj.AssemblyReference.cache
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\BazadeDate\BazadeDate\obj\Debug\BazadeDate.csproj.CoreCompileInputs.cache
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\BazadeDate\BazadeDate\obj\Debug\BazadeDate.dll
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\BazadeDate\BazadeDate\obj\Debug\BazadeDate.pdb
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\BazadeDate\BazadeDate\bin\Debug\BazadeDate.dll
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\BazadeDate\BazadeDate\bin\Debug\BazadeDate.pdb
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\BazadeDate\BazadeDate\obj\Debug\BazadeDate.csproj.CoreCompileInputs.cache
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\BazadeDate\BazadeDate\obj\Debug\BazadeDate.dll
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\BazadeDate\BazadeDate\obj\Debug\BazadeDate.pdb
+C:\Anul3_Semestrul2\IP\Proiect_de_ala_frumos\Rezerva - Copy\ProiectIP_Gangster_Paradise_Squad-main\BazadeDate\BazadeDate\obj\Debug\BazadeDate.csproj.AssemblyReference.cache
